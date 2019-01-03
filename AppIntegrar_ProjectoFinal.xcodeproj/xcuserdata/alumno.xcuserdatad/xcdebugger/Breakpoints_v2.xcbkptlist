@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppIntegrar_ProjectoFinal/config2ViewController.swift"
+            timestampString = "514412538.985301"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "config2ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppIntegrar_ProjectoFinal/config2ViewController.swift"
+            timestampString = "514909771.092926"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "config2ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppIntegrar_ProjectoFinal.config2ViewController.Trigonometrica.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UISwitch&gt;"
+                  moduleName = "AppIntegrar_ProjectoFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Desktop/AppIntegrar%20Con%20Views/AppIntegrar_ProjectoFinal/config2ViewController.swift"
+                  timestampString = "514413077.89511"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppIntegrar_ProjectoFinal.config2ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; AppIntegrar_ProjectoFinal.config2ViewController"
+                  moduleName = "AppIntegrar_ProjectoFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Desktop/AppIntegrar%20Con%20Views/AppIntegrar_ProjectoFinal/config2ViewController.swift"
+                  timestampString = "514413077.89725"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "283">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppIntegrar_ProjectoFinal.config2ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;AppIntegrar_ProjectoFinal.config2ViewController&gt;"
+                  moduleName = "AppIntegrar_ProjectoFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Desktop/AppIntegrar%20Con%20Views/AppIntegrar_ProjectoFinal/config2ViewController.swift"
+                  timestampString = "514413077.899242"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppIntegrar_ProjectoFinal/config2ViewController.swift"
+            timestampString = "514909771.092926"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "config2ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppIntegrar_ProjectoFinal.config2ViewController.arrEnabledTypes.getter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;Swift.Bool&gt;&gt;"
+                  moduleName = "AppIntegrar_ProjectoFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Desktop/AppIntegrar%20Con%20Views/AppIntegrar_ProjectoFinal/config2ViewController.swift"
+                  timestampString = "514413109.160062"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "46">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppIntegrar_ProjectoFinal.config2ViewController.arrEnabledTypes.setter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;Swift.Bool&gt;&gt;"
+                  moduleName = "AppIntegrar_ProjectoFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Desktop/AppIntegrar%20Con%20Views/AppIntegrar_ProjectoFinal/config2ViewController.swift"
+                  timestampString = "514413109.16212"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppIntegrar_ProjectoFinal.config2ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; AppIntegrar_ProjectoFinal.config2ViewController"
+                  moduleName = "AppIntegrar_ProjectoFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Desktop/AppIntegrar%20Con%20Views/AppIntegrar_ProjectoFinal/config2ViewController.swift"
+                  timestampString = "514413109.163742"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "342">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppIntegrar_ProjectoFinal.config2ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;AppIntegrar_ProjectoFinal.config2ViewController&gt;"
+                  moduleName = "AppIntegrar_ProjectoFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Desktop/AppIntegrar%20Con%20Views/AppIntegrar_ProjectoFinal/config2ViewController.swift"
+                  timestampString = "514413109.165195"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "238">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppIntegrar_ProjectoFinal/ResolverViewController.swift"
+            timestampString = "515192169.028328"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "497"
+            endingLineNumber = "497"
+            landmarkName = "comprobar(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppIntegrar_ProjectoFinal/ViewController.swift"
+            timestampString = "515538685.443545"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "468"
+            endingLineNumber = "468"
+            landmarkName = "GenerarPregunta(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
